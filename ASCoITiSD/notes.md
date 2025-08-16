@@ -11,6 +11,7 @@
       - [Azure Certifications](#azure-certifications)
     - [Case Studies and Exercises](#case-studies-and-exercises)
   - [Module 2:  Understanding Business Requirement](#module-2--understanding-business-requirement)
+  - [Module 3: Architectural Design Principles](#module-3-architectural-design-principles)
 
 ## Overview
 
@@ -64,3 +65,19 @@ Read more: https://learn.microsoft.com/en-us/credentials/browse/?credential_type
 - Narrow down your problem
 
 ## Module 2:  Understanding Business Requirement
+
+Remember; What's the Business Value in this ?
+
+Remember to consider this:
+
+![Business Requirements](./assets/bus_req.png)
+
+## Module 3: Architectural Design Principles
+
+Refer to: https://refactoring.guru
+
+![Architectural Diagram](./assets/arc.png)
+
+Read more here for High Level Diagram: https://softwaredominos.com/home/software-design-development-articles/high-level-solution-design-documents-what-is-it-and-when-do-you-need-one/
+
+Read here for Low Level Diagram: https://github.com/ashishps1/awesome-low-level-design
